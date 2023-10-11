@@ -17,7 +17,11 @@ body{
     flex-direction: column;
     align-items: center;
     gap: 4rem;
-    font-family: Montserrat
+    font-family: Gatwick;
+    background-image: url("https://www.10wallpaper.com/wallpaper/1920x1080/1712/Purple_glare_lines_Design_4K_HD_1920x1080.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
 }
 
 .content{
